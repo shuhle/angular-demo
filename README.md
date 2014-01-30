@@ -1,1 +1,1 @@
-This is A small set of AngularJS demos.
+This is a small set of AngularJS demos.
